@@ -1,7 +1,7 @@
 - 🎨 Front-End
 - 🌱 Estudando: Bootstrap/Python
 - ⚡ Costelinha honest fan 👍
-- 😎 Pronomes: Fel/ilpz
+- 😎 Pronomes: LUIZ/FELIPE
 
 <div align="center">
   <a href="https://github.com/felilpz">
@@ -28,5 +28,6 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     
-    ![Snake animation](https://github.com/felilpz/felilpz/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                   
+  ![Snake animation](https://github.com/Felilpz/Felilpz/blob/output/github-contribution-grid-snake.svg)                                                                                                                                
 </div>
