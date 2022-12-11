@@ -1,7 +1,5 @@
 - 🎨 Front-End
-- 🌱 Estudando: Bootstrap/Python
-- ⚡ Costelinha honest fan 👍
-- 😎 Pronomes: LUIZ/FELIPE
+- 🌱 Estudando: Bootstrap
 
 <div align="center">
   <a href="https://github.com/felilpz">
