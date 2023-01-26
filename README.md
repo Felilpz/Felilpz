@@ -1,6 +1,3 @@
-- 🎨 Front-End
-- 🌱 Estudando: Bootstrap
-
 <div align="center">
   <a href="https://github.com/felilpz">
   <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=felilpz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
