@@ -15,6 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/Felilpz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/Felilpz/" target="_blank"> <img src="https://img.shields.io/badge/%40-Linkedin-blue"><a>
 </div> 
 
  
@@ -45,6 +46,16 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 👋 About Me
+I'm Luiz Felipe, an IT professional passionate about technology, development, and security. I have a degree in Analysis and Systems Development and currently work in IT infrastructure, with a focus on continuously building my knowledge and skills in various areas of technology.
+
+I'm constantly exploring Front-end, Back-end, and DevSecOps, building projects and improving my skills. My main tech stack includes JavaScript, Python, HTML, CSS, Bootstrap, and databases (PostgreSQL & MySQL).
+
+Currently, I'm studying Angular, Docker, Linux distributions (Ubuntu, Kali, Mint, Zorin), networking, and firewall security (pfSense) to expand my knowledge and grow as a professional of technology with a solid foundation.
+
+🚀 Always learning, always building.
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
